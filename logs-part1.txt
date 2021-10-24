@@ -1,0 +1,23 @@
+PS D:\Frontend-pro\lection\HW1-GIT\HW1-GIT> git reflog
+7730349 (HEAD -> master, origin/master, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{0}: merge develop: Fast-forward
+c2fd7f2 HEAD@{1}: checkout: moving from feature2 to master
+7730349 (HEAD -> master, origin/master, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{2}: merge develop: Fast-forward
+5ffa6f5 HEAD@{3}: checkout: moving from feature1 to feature2
+7730349 (HEAD -> master, origin/master, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{4}: merge develop: Fast-forward
+ede5fb7 HEAD@{5}: checkout: moving from develop to feature1
+7730349 (HEAD -> master, origin/master, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{6}: merge feature2: Merge made by the 'recursive' strategy.
+ede5fb7 HEAD@{7}: merge feature1: Fast-forward
+7cf93cd HEAD@{8}: checkout: moving from feature2 to develop
+5ffa6f5 HEAD@{9}: commit: Fifth commit
+7cf93cd HEAD@{10}: checkout: moving from develop to feature2
+7cf93cd HEAD@{11}: checkout: moving from feature1 to develop
+ede5fb7 HEAD@{12}: commit: Fourth commit
+eabec11 HEAD@{13}: commit: Third commit
+7cf93cd HEAD@{14}: checkout: moving from develop to feature1
+7cf93cd HEAD@{15}: commit: Second commit
+c2fd7f2 HEAD@{16}: checkout: moving from master to develop
+c2fd7f2 HEAD@{17}: commit (initial): First commit
+~
+~
+~
+(END)
